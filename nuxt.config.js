@@ -4,7 +4,7 @@ module.exports = {
   mode: 'spa',
 
   router: {
-    base: 'particles-snow-test'
+    base: '/particles-snow-test/'
   },
   /*
   ** Headers of the page
