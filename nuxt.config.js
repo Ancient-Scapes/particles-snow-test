@@ -3,6 +3,9 @@ const pkg = require('./package')
 module.exports = {
   mode: 'spa',
 
+  router: {
+    base: 'particles-snow-test'
+  },
   /*
   ** Headers of the page
   */
